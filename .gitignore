@@ -1,0 +1,4 @@
+*.zip
+*.ipynb_checkpoints
+*tg_utils.py
+__pycache__
